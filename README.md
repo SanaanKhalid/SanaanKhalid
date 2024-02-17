@@ -7,6 +7,8 @@
 
 - 📝 I create some awesome videos at [https://www.youtube.com/@DevCraftt](https://www.youtube.com/@DevCraftt)
 
+- 🐦 I write tweets at [https://twitter.com/SanaanDevCraft](https://twitter.com/SanaanDevCraft)
+
 - 💬 Ask me about **AI, Blockchain, and Data-Driven Applications**
 
 - 📫 Contact me here: **sanaansanaan@hotmail.com**
