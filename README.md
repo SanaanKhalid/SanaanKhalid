@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanaan Khalid</h1>
 <h3 align="center">I write code, make vids, and do other awesome stuff.</h3>
 
-- 🌱 I’m currently learning **AI, SAP, and React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SanaanKhalid](https://github.com/SanaanKhalid)
 
