@@ -30,7 +30,7 @@ I'm especially interested in agent-level self-improvement and how feedback from 
 | ML and evaluation | Python, PyTorch, NumPy, sentence-transformers, COMET/COMETKiwi, Whisper |
 | LLMs and agents | Amazon Bedrock, OpenAI API, retrieval-augmented generation (RAG), MCP tooling, model routing, feedback loops |
 | MLOps and cloud | AWS SageMaker, Terraform, Docker, Kubernetes, Helm, AWS Lambda, GitLab CI/CD, OpenTelemetry, Azure, GCP |
-| Backend | FastAPI, Node.js, Express, Scala, Java, Go, C#/.NET, Spring Boot |
+| Backend | FastAPI, Node.js, Express, Scala, Java, Go, C#, Spring Boot |
 | Web and mobile | TypeScript, JavaScript, React, Next.js, React Native, TanStack Start, Vite |
 | Data | SQL, PostgreSQL, DynamoDB, MemoryDB, Snowflake, Supabase, Convex |
 
